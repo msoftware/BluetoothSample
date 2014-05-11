@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Sample Application</string>
+    <string name="root_directory">BluetoothSample</string>
+    <string name="log_file_name">Log.txt</string>
+
+</resources>
